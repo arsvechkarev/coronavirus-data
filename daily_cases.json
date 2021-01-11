@@ -2462,5 +2462,12 @@
     "Deaths": 1898530,
     "Increase rate": 0.9820575515440801,
     "Recovered": 49098418
+  },
+  {
+    "Confirmed": 88860500,
+    "Date": "2021-01-08",
+    "Deaths": 1913419,
+    "Increase rate": 0.9224620017597617,
+    "Recovered": 49396101
   }
 ]
