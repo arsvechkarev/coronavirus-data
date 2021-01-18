@@ -2469,5 +2469,61 @@
     "Deaths": 1913419,
     "Increase rate": 0.9224620017597617,
     "Recovered": 49396101
+  },
+  {
+    "Confirmed": 89692138,
+    "Date": "2021-01-09",
+    "Deaths": 1926638,
+    "Increase rate": 0.8602536960061203,
+    "Recovered": 49730327
+  },
+  {
+    "Confirmed": 90283088,
+    "Date": "2021-01-10",
+    "Deaths": 1934805,
+    "Increase rate": 0.6588648828953101,
+    "Recovered": 49997720
+  },
+  {
+    "Confirmed": 90900967,
+    "Date": "2021-01-11",
+    "Deaths": 1945033,
+    "Increase rate": 0.6843795595471878,
+    "Recovered": 50285515
+  },
+  {
+    "Confirmed": 91605067,
+    "Date": "2021-01-12",
+    "Deaths": 1962363,
+    "Increase rate": 0.7745792187227227,
+    "Recovered": 50629426
+  },
+  {
+    "Confirmed": 92355264,
+    "Date": "2021-01-13",
+    "Deaths": 1978741,
+    "Increase rate": 0.8189470567168518,
+    "Recovered": 50994811
+  },
+  {
+    "Confirmed": 93110488,
+    "Date": "2021-01-14",
+    "Deaths": 1994054,
+    "Increase rate": 0.8177379039271654,
+    "Recovered": 51363325
+  },
+  {
+    "Confirmed": 93876206,
+    "Date": "2021-01-15",
+    "Deaths": 2009092,
+    "Increase rate": 0.822375670504487,
+    "Recovered": 51685853
+  },
+  {
+    "Confirmed": 94490863,
+    "Date": "2021-01-16",
+    "Deaths": 2022059,
+    "Increase rate": 0.654752706985197,
+    "Recovered": 52005821
   }
 ]
